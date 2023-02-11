@@ -12,3 +12,8 @@
 ## Update a task
 
 ![image](https://user-images.githubusercontent.com/80216049/218279045-1a0bd9b2-2326-4c3f-af0f-65bc5919818a.png)
+
+## Checked and Completed Tasks
+
+![image](https://user-images.githubusercontent.com/80216049/218281247-910fd51f-2793-4e3d-a1e0-1ad7b815fe8d.png)
+
